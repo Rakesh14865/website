@@ -1,5 +1,5 @@
 import { useState } from "react"; // Import useState
-
+import ANXIETY from "./assets/ANXIETY.jpg"
 function Card(p) {
   const [count, setCount] = useState(0); // Initialize count with useState
 
